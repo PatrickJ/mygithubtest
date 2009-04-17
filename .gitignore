@@ -1,0 +1,7 @@
+# Specify ignore list
+*.bak
+*.py~
+*.*~
+*.pyc
+*.zip
+*.swp
